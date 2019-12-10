@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- Définition du Contour -->
+<stroke android:width="3dp" android:color="#ffc832" />
+
+<!-- Définition du fond -->
+<!--  <gradient
+      android:type="linear"
+      android:startColor="#ac661a"
+      android:endColor="#727272"
+      android:angle="90"/>-->
+
+
+
+</shape>

@@ -1,0 +1,67 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="screen">
+        <item name="android:background">#181818</item>
+        <item name="android:textColor">#d44b00</item>
+        <item name="android:textSize">56dp</item>
+    </style>
+
+
+    <style name="boutonDel">
+        <item name="android:background">#c63a3a</item>
+        <item name="android:textSize">30dp</item>
+    </style>
+
+
+
+    <style name="boutonOpe">
+        <item name="android:background">#ffb739</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_width">95dp</item>
+        <item name="android:layout_height">65dp</item>
+    </style>
+
+
+
+    <style name="boutonResult">
+        <item name="android:background">#d44b00</item>
+        <item name="android:textSize">30dp</item>
+    </style>
+
+
+
+    <style name="bouton">
+        <item name="android:strokeColor">@drawable/bouton</item>
+    </style>
+
+
+    <style name="boutonNum">
+        <item name="android:background">#494949</item>
+        <item name="android:textColor">#e0e0e0</item>
+        <item name="android:layout_width">95dp</item>
+        <item name="android:layout_height">65dp</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:strokeColor">#ffc832</item>
+
+    </style>
+
+
+
+    <style name="operation" parent="bouton">
+        <item name="android:background">#e0d900</item>
+    </style>
+
+
+    <style name="fond">
+        <item name="android:background">#fff</item>
+    </style>
+</resources>
