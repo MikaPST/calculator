@@ -1,6 +1,4 @@
-# Android Example Application
-
-This is an example Android Application README to show briefly the sections your app README should contain.
+# Android Application
 
 ## Installation
 Clone this repository and import into **Android Studio**
